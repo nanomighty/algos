@@ -25,5 +25,12 @@ class SLL {
 }
 
 
+    // sll1 = new SLL();
+    // node1 = new Node(13);
+    // sll1.head = node1;
+    // node2 = new Node(10);
+    // node1.next = node2;
 
+    //How to run this js file
+    //console.log(sll1.length());
 
